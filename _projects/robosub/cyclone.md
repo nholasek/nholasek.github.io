@@ -32,17 +32,16 @@ Use this to have subsection if needed
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
 ### Embeed images
-{% include image-gallery.html images="Submarine_Pool.JPG" height="400" %} 
-place the images in project folder/images then update the file path.   
-
+{% include image-gallery.html images="Main Assembly Front.JPG" height="400" %} 
+As a founding member of the club, I’ve been deeply involved in every stage of our autonomous underwater vehicle’s (AUV) design and manufacturing process. This experience has significantly honed my CAD skills, particularly in OnShape, where I contributed to modeling the vehicle’s intricate components. Beyond technical drafting, I’ve learned to integrate prototyping and manufacturing considerations into my designs—optimizing parts for 3D printing and ensuring compatibility with Arduino and Raspberry Pi systems. Collaborating with a diverse team of students, spanning all levels of expertise, has further sharpened my ability to create practical, production-ready solutions.
 
 ## Embedding youtube video
-The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
-*Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
-{% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
-{% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
+## The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
+## *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
+## {% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
+## {% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
 
-you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
+## you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
 
 The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
 {% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
