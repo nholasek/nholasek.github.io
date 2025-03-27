@@ -20,20 +20,20 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Google search results) and in your feed.xml site description.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/Face_Sunset.jpeg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: https://docs.google.com/document/d/16kLfSVc9PbHTXlQGAxA1jcYm5YuRGBrz5ufmkcs-v_Q/edit?tab=t.0#heading=h.kudb2xevsued
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: Nicolas Holasek    # https://www.linkedin.com/in/nicolas-holasek/
+  github: nholasek    # https://github.com/{your url slug} 
+  stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -49,12 +49,7 @@ skills:
     tools:
     - Onshape
     - Solidworks
-    - Creo
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
   - category: Prototyping
     tools:
     - SLA
@@ -64,6 +59,7 @@ skills:
     - DMLS
     - PolyJet Printing
     - Vacuum Casting
+    - Direst Sound Printing (DSP)
     - Laser Cutting
     - Water Jet Cutting
     - Arduino / Raspberry Pi
