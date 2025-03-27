@@ -10,5 +10,5 @@ skills:
 - eVTOL flight performance analysis
 - Data analysis and visualization
 - Collaborative design and presentation
-main-image: /FlightMap.png 
+main-image: /AlitudeCompliance.png 
 ---
