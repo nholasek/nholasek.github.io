@@ -11,5 +11,5 @@ skills:
 - Programming (Python, C, MATLAB/Simulink)
 - Embedded systems (Raspberry Pi, Arduino)
 - Mechanical fabrication
-main-image: /project.webp
+main-image: /projects/robosub/Submarine_Pool.JPG
 ---
