@@ -37,9 +37,9 @@ As a founding member of the club, I’ve been deeply involved in every stage of 
 
 ## Embedding youtube video
 ## The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
-## *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
+## *Example* : https://youtu.be/F36h8j_JNsg
 ## {% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
-## {% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
+## {% include youtube-video.html id="F36h8j_JNsg" autoplay = "true" %}
 
 ## you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
 
