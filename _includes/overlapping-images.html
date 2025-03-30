@@ -1,0 +1,37 @@
+{% assign images = include.images | split: ',' %}
+<div class="overlapping-images" style="height: {{include.height}}px;">
+    {% for image in images %}
+        <div class="overlapping-image" style="z-index: {{forloop.length | minus: forloop.index}}">
+            <img src="{{image | strip}}" alt="Propulsion and Control Systems Image {{forloop.index}}">
+        </div>
+    {% endfor %}
+</div>
+
+<style>
+.overlapping-images {
+    position: relative;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.overlapping-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.3s ease;
+}
+
+.overlapping-image:hover {
+    transform: translate(10px, -10px);
+}
+
+.overlapping-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+</style> 
