@@ -13,17 +13,18 @@ title: Nicolas Holasek's Portfolio # This is what shows up in the tab of the bro
 
 # Hero Section
 name: Nicolas Holasek
-headline: nholasek@ucdavis.edu | (707) 761-9860
+headline: nholasek@gmail.com | (707) 761-9860
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  As a Mechanical Engineering student at UC Davis, set to graduate in 2027,
+  As an Electrical Engineering student, set to graduate in 2027,
   I take pride in my contributions to cutting-edge projects. My work 
   spans multiple UC Davis research labs, where I’ve explored aviation and advanced 
-  manufacturing techniques like Direct Sound Printing (DSP). In early May, I’ll 
-  present eVTOL aviation research at NASA Ames Alongside this, I serve as the 
-  Mechanical Lead for Cyclone RoboSub, a club I’ve helped shape since its inception. 
-  There, I design and build a fully autonomous underwater vehicle (AUV) for an 
-  international competition, doubling as a research platform. To deepen my expertise 
-  beyond undergraduate coursework, I’ve also tackled several graduate-level classes.
+  manufacturing techniques like Direct Sound Printing (DSP). In early May, I
+  presented eVTOL aviation research NASA, Matlab, alongside other sponsors, 
+  winning 3 out of 4 awards. I am also the Mechanical Lead for Cyclone RoboSub, 
+  a club I’ve helped shape since its inception. There, I design and build a fully 
+  autonomous underwater vehicle (AUV) for an international competition, doubling as 
+  a research platform. To deepen my expertise beyond undergraduate coursework, I’ve 
+  also tackled several graduate-level classes.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/Face_Sunset.jpg
